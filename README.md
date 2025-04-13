@@ -42,7 +42,7 @@ A chatbot application that answers questions about a PDF document using LangChai
 Use the provided example PDF, the_curious_fox.pdf, to test the chatbot.
 The chatbot will answer questions based on the content of the PDF.
 
-![Example Image](example.png)
+![Example Image](https://github.com/leonardo-pais/ollama-pdf-chatbot/blob/develop/example.PNG?raw=true)
 
 ## Project Structure
 
